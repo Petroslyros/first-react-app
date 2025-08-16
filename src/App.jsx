@@ -1,10 +1,8 @@
-import Button from './Button'
-
-
+import ColorPicker from './ColorPicker'
 const App = () => {
 
 return(
-    <Button></Button>
+    <ColorPicker> </ColorPicker>
 )   
 
 }
