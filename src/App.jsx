@@ -1,13 +1,11 @@
 
-import DigitalClock from './DigitalClock'
-import ToDoListApp from './ToDoListApp'
-import UpdateArray from './UpdateArray'
-import UpdateArrayOfObjects from './UpdateArrayOfObjects'
+import StopWatch from './StopWatch'
+
 
 const App = () => {
 
 return(
-    <DigitalClock></DigitalClock>
+    <StopWatch></StopWatch>
 )   
 
 }
