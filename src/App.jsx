@@ -1,8 +1,13 @@
-import ColorPicker from './ColorPicker'
+
+import DigitalClock from './DigitalClock'
+import ToDoListApp from './ToDoListApp'
+import UpdateArray from './UpdateArray'
+import UpdateArrayOfObjects from './UpdateArrayOfObjects'
+
 const App = () => {
 
 return(
-    <ColorPicker> </ColorPicker>
+    <DigitalClock></DigitalClock>
 )   
 
 }
